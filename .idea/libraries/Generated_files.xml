@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/destructuring-compiled.js" />
+        <item url="file://$PROJECT_DIR$/promises-compiled.js" />
+        <item url="file://$PROJECT_DIR$/restSpread-compiled.js" />
+        <item url="file://$PROJECT_DIR$/templateLiterals-compiled.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/destructuring-compiled.js" />
+      <root url="file://$PROJECT_DIR$/promises-compiled.js" />
+      <root url="file://$PROJECT_DIR$/restSpread-compiled.js" />
+      <root url="file://$PROJECT_DIR$/templateLiterals-compiled.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>
